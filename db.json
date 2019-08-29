@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "clientDetails": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 1794839,
+      "name": "John Smith",
+      "status": "Active",
+      "admin_type": "Single Admin",
+      "password_valid": 90,
+      "active_form: "10/10/2015"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
