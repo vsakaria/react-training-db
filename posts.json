@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "goodbye"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "react"
   }
 }
